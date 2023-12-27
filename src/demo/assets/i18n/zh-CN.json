@@ -1,0 +1,27 @@
+{
+    "delete": "删除",
+    "generate compressed code": "生成压缩码",
+    "download": "下载",
+    "file": "文件",
+    "ltr":"左布局",
+    "rtl":"右布局",
+
+    "default":"默认主题",
+    "material":"材质主题",
+    "ant design":"蚂蚁设计主题",
+
+    "Data sources": "数据来源",
+    "Reactive forms":"反应形态",
+    "Data bindings":"数据绑定",
+    "Search and autocomplete":"搜索和自动补全",
+    "Templates":"模板",
+    "Multiselect":"多选",
+    "Multiselect checkbox":"多选框",
+    "Output events":"输出事件",
+    "Virtual scroll":"虚拟滚轴",
+    "Dropdown position":"下拉菜单位置",
+    "Append to element":"增添元素",
+    "Grouping":"分组",
+    "Tags":"标签",
+    "By default dropdown panel is rendered as child element of ng-select, but you can append dropdown to any element using":"默认情况下，下拉面板是作为 ng-select 的子元素呈现的，但您可以使用 appendTo 将下拉添加到任何元素。"
+}

@@ -1,0 +1,24 @@
+{
+    "delete": "Delete",
+    "generate compressed code": "Generate compressed code",
+    "download": "Download",
+    "file": "File",
+    "ltr": "LTR",
+    "rtr": "RTL",
+    "default": "Default theme",
+    "material": "Material theme",
+    "ant design": "Ant Design theme",
+    
+    "Data sources": "Data sources",
+    "Reactive forms":"Reactive forms",
+    "Data bindings":"Data bindings",
+    "Search and autocomplete":"Search and autocomplete",
+    "Templates":"Templates",
+    "Multiselect":"Multiselect",
+    "Multiselect checkbox":"Multiselect checkbox",
+    "Output events":"Output events",
+    "Virtual scroll":"Virtual scroll",
+    "Dropdown position":"Dropdown position",
+    "Append to element":"Append to element",
+    "Grouping":"Grouping"
+}
